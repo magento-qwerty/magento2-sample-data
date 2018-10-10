@@ -16,7 +16,6 @@
             <module name="Magento_ConfigurableSampleData"/>
             <module name="Magento_GroupedProductSampleData"/>
             <module name="Magento_GiftCardSampleData"/>
-            <module name="Magento_TaxSampleData"/>
         </sequence>
     </module>
 </config>
